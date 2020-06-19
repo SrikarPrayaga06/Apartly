@@ -29,10 +29,12 @@ Users will be able to join study/work rooms with specific tags with a global pro
 
 **Required Must-have Stories**
 
-* Login page (DONE) http://g.recordit.co/UQtXtzmK8u.gif  (DONE)
+* Login page (DONE) <img src="http://g.recordit.co/UQtXtzmK8u.gif" width=250><br>(DONE)
 * User logs in to access their home page where recommended study rooms are available (DONE)
-* User picks their study rooms with a global timer (DONE) http://g.recordit.co/fSfsCjysc1.gif
-* User picks their study rooms with a video chat  (SCRAPPED) http://g.recordit.co/u0S8mkzPYw.gif
+* User picks their study rooms with a global timer (DONE) 
+<img src="http://g.recordit.co/fSfsCjysc1.gif" width=250><br>
+* User picks their study rooms with a video chat  (SCRAPPED) 
+<img src="http://g.recordit.co/u0S8mkzPYw.gif" width=250><br>
 * Personalized/ default home page for each user. (DONE)
 * Profile pages for each user (DONE)
 * Settings (Accessibility, Notification, General, etc.) (SCRAPPED)
