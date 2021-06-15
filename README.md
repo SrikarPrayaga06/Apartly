@@ -1,4 +1,3 @@
-Codepath Final Group Project!
 ===
 
 # APARTLY
